@@ -8,7 +8,8 @@ Download most recent pre-compiled driver binaries here:
 
 - kXAudioDriver-1.11b0.dmg -- Contains latest OS X driver for x86 and x64 architectures.
 
+Subfolders:
 
-'Old versions': legacy driver builds.
-'Old legacy skins': skin files for kX Mixer, which are probably no longer compatible with new driver releases.
-'Old help files': legacy help files in different languages (French, Russian, Chinese and Japanese)
+- 'Old versions': legacy driver builds.
+- 'Old legacy skins': skin files for kX Mixer, which are probably no longer compatible with new driver releases.
+- 'Old help files': legacy help files in different languages (French, Russian, Chinese and Japanese)
